@@ -21,17 +21,6 @@
             "icon": "icons/cat_raspberry_pi_os.png",
             "subitems": [
                 {
-                    "name": "mescan OS",
-                    "description": "blah blah test",
-                    "icon": "https://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
-                    "url": "https://cardioscan.sharepoint.de/:u:/g/Entwicklung/EVakUeapN5xNptS_4els9C0BWHfz2woOmepTGYtEL8nzvg?e=CE1cHN",
-                    "extract_size": 5624873472,
-                    "extract_sha256": "68fa0e91c5a3fecf8b542e65a227e573150f58337180f4a733bdc6a546436f76",
-                    "image_download_size": 1757436398,
-                    "release_date": "2022-01-04",
-                    "init_format": "systemd"
-                },
-                {
                     "name": "Raspberry Pi OS Lite (32-bit)",
                     "description": "A port of Debian Bullseye with no desktop environment",
                     "icon": "https://downloads.raspberrypi.org/raspios_lite_armhf/Raspberry_Pi_OS_Lite_(32-bit).png",
